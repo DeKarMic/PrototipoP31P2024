@@ -6,7 +6,10 @@ import java.util.Random;
 import java.util.Scanner;
 /**
  *
- * @author dekar
+ * @author Amilcar Geovanny Gudiel Trochez
+Carne 9959-22-3918
+hora: 8:35
+
  */
 public class Baseball {
     public static void main(String[] args) {

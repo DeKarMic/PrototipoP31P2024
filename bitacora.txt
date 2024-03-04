@@ -1,0 +1,11 @@
+commit 042a0227a16603f2d9480c1a82e040b0619e898a
+Author: DeKarMic DKM <dekarmic@gmail.com>
+Date:   Mon Mar 4 10:53:43 2024 -0600
+
+    resultados
+
+commit 6b6667753507906b3b12c0b610b4daa33e0485f7
+Author: DeKarMic DKM <dekarmic@gmail.com>
+Date:   Mon Mar 4 10:19:53 2024 -0600
+
+    ligas>
